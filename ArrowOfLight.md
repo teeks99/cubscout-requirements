@@ -5,28 +5,28 @@ To complete the rank of Arrow of Light two elective adventures and the six requi
 
 Required Adventures
 
-*   Bobcat (Character & Leadership)
-*   Outdoor Adventurer (Outdoors)
-*   Personal Fitness (Personal Fitness)
-*   Citizenship
-*   First Aid (Personal Safety Awareness)
-*   Duty to God (Family & Reverence)
+*   [Bobcat](#bobcat) (Character & Leadership)
+*   [Outdoor Adventurer](#outdoor-adventurer) (Outdoors)
+*   [Personal Fitness](#personal-fitness) (Personal Fitness)
+*   [Citizenship](#citizenship)
+*   [First Aid](#first-aid) (Personal Safety Awareness)
+*   [Duty to God](#duty-to-god) (Family & Reverence)
 
 Elective Adventures
 
-*   Champions for Nature
-*   Cycling
-*   Engineer
-*   Estimations
-*   Fishing
-*   High Tech Outdoors
-*   Into the Wild
-*   Into the Woods
-*   Knife Safety
-*   Paddle Craft
-*   Race Time
-*   Sumertime Fun
-*   Swimming
+*   [Champions for Nature](#champions-for-nature)
+*   [Cycling](#cycling)
+*   [Engineer](#engineer)
+*   [Estimations](#estimations)
+*   [Fishing](#fishing)
+*   [High Tech Outdoors](#high-tech-outdoors)
+*   [Into the Wild](#into-the-wild)
+*   [Into the Woods](#into-the-woods)
+*   [Knife Safety](#knife-safety)
+*   [Paddle Craft](#paddle-craft)
+*   [Race Time](#race-time)
+*   [Sumertime Fun](#summertime-fun)
+*   [Swimming](#swimming)
 
 Requirements for Required Adventures
 ====================================
